@@ -1,0 +1,10 @@
+.star-rating {
+    font-size: 2em;
+    color: gold;
+    cursor: pointer;
+  }
+  
+  .star-rating .fa {
+    margin-right: 5px;
+  }
+  
